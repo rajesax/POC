@@ -249,3 +249,5 @@ ModelManifest.xml
 /jenkins/apache-maven-3.5.0
 /Docker
 /AWS
+/jenkins
+/nuget.exe
