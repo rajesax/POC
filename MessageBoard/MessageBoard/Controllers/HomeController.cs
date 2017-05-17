@@ -23,7 +23,7 @@ namespace MessageBoard.Controllers
 
         public ActionResult Contact()
         {
-            ViewBag.Message = "Your contact page 1234.";
+            ViewBag.Message = "Your contact page 12345.";
 
             return View();
         }
