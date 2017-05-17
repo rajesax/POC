@@ -240,3 +240,12 @@ ModelManifest.xml
 
 # FAKE - F# Make
 .fake/
+/Resharper/ResharperDemoApp
+/ProcessMonitor.zip
+/ProcessMonitor
+/MyFirstProject/TFS
+/Microservice/ServiceFabric
+/jenkins/jenkins2-course-spring-boot/
+/jenkins/apache-maven-3.5.0
+/Docker
+/AWS
